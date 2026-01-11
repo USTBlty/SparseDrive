@@ -108,4 +108,3 @@ If you find SparseDrive useful in your research or applications, please consider
 - [StreamPETR](https://github.com/exiawsh/StreamPETR)
 - [StreamMapNet](https://github.com/yuantianyuan01/StreamMapNet)
 - [mmdet3d](https://github.com/open-mmlab/mmdetection3d)
-
